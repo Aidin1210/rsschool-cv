@@ -1,9 +1,9 @@
 **Contacts:** 
- aydyn.amanbayev@mail.ru, 
- Skype Aydyn Amanbayev;
- Telegram @Aidin1989;
- Discord Aidin#1240;
- Whatsapp 87001663627;
+ + aydyn.amanbayev@mail.ru, 
+ + Skype Aydyn Amanbayev;
+ + Telegram @Aidin1989;
+ + Discord Aidin#1240;
+ + Whatsapp 87001663627;
  
 <p> My goal is to supplement my knowledge and get a job at Epam.I am very patient and hardworking.I worked at Kazakhtelecom JSC with a degree in radio engineering, electronics and telecommunications.Work experience is 10 years.I like to read programming books in my free time.I develop skills and supplement my knowledge.</p>
 
