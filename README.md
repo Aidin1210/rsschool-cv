@@ -1,2 +1,3 @@
 # rsschool-cv   
-https://Aidin1210.github.io/rsschool-cv/
+https://aidin1210.github.io/rsschool-cv 
+
